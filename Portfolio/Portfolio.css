@@ -1,0 +1,84 @@
+body{
+	margin-top: 0px;
+	background-color: rgba(92, 147, 164, 0.14);
+}
+
+.header-tag{
+	height: 50px;
+	background-color: rgba(186, 186, 186, 0.6);
+	width: 100%;
+	left: 0px;
+	position: fixed;
+	z-index: 1;
+}
+
+.logo img{
+	height: 30px;
+	margin-top: 9px;
+	margin-left: 25px;
+}
+
+.logo{
+	display: inline-block;
+}
+
+.navigation-tag{
+	display: inline-block;
+	float: right;
+	margin-top: 18px;
+}
+
+.nav-text a{
+	margin-right: 130px;
+	font-family: inria serif;
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+}
+
+.nav-text a:hover{
+	color: #0894C0;
+}
+
+.image-content img{
+	float: right;
+	height: 750px;
+	margin-top: 49px;
+	width: 50%;
+}
+
+.text-content{
+	display: inline-block;
+	margin-top: 180px;
+	margin-left: 70px;
+	font-family: Georgia,serif;
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.text-content img{
+	height: 40px;
+}
+
+.small-text{
+	font-size: 20px;
+	font-weight: normal;
+}
+
+#achieve{
+	height: 40px;
+}
+
+#certi{
+	height: 300px;
+}
+.certificate1{
+	margin-left: 80px;
+
+}
+.certificate2{
+	float: right;
+	margin-right: 60px;
+	display: inline-block;
+}
+
